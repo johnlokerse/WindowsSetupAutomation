@@ -3,7 +3,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object
 
 # Work software
 choco install dotnetcore-sdk -y
-choco install git.install -y
 choco install linqpad -y
 choco install vscode -y
 choco install visualstudio2019enterprise -y
@@ -17,6 +16,7 @@ choco install sql-server-management-studio -y
 choco install office365proplus -y
 choco install docker-cli -y
 choco install nodejs.install
+choco install keepass.install -y
 
 # Personal software
 choco install logitech-options -y
@@ -25,11 +25,17 @@ choco install whatsapp -y
 choco install geforce-experience -y
 choco install steam -y
 choco install dropbox -y
+choco install curl -y
 
 # Shared software
 choco install googlechrome -y
+choco install firefox -y
 choco install adobereader -y
 choco install putty.install -y
+choco install git.install -y
+choco install gitkraken -y
+choco install notepadplusplus.install -y
+choco install 7zip -y
 
 # VSCode extensions
 code --install-extension eamodio.gitlens
@@ -41,3 +47,7 @@ code --install-extension vscode-icons-team.vscode-icons
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension johnpapa.angular-essentials
 code --install-extension zhuangtongfa.material-theme
+code --install-extension ms-vscode.powershell
+
+# Refresh the PowerShell environment
+RefreshEnv.cmd
