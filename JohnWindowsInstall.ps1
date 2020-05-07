@@ -24,6 +24,7 @@ choco install everything -y
 choco install whatsapp -y
 choco install geforce-experience -y
 choco install steam -y
+choco install origin -y
 choco install dropbox -y
 choco install curl -y
 choco install hyperx-ngenuity -y
