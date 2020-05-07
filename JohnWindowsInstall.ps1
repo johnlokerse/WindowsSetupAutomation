@@ -26,6 +26,7 @@ choco install geforce-experience -y
 choco install steam -y
 choco install dropbox -y
 choco install curl -y
+choco install hyperx-ngenuity -y
 
 # Shared software
 choco install googlechrome -y
