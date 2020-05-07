@@ -27,6 +27,7 @@ choco install steam -y
 choco install dropbox -y
 choco install curl -y
 choco install hyperx-ngenuity -y
+choco install virtualbox -y
 
 # Shared software
 choco install googlechrome -y
