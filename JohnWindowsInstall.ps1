@@ -3,8 +3,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object
 
 # Work software
 choco install dotnetcore-sdk -y
-choco install linqpad -y
-choco install vscode -y
 choco install visualstudio2019enterprise -y
 choco install visualstudio2019-workload-netweb -y
 choco install visualstudio2019-workload-azure -y
@@ -31,6 +29,8 @@ choco install hyperx-ngenuity -y
 choco install virtualbox -y
 
 # Shared software
+choco install vscode -y
+choco install linqpad -y
 choco install googlechrome -y
 choco install firefox -y
 choco install adobereader -y
