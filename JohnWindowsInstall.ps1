@@ -39,6 +39,8 @@ choco install git.install -y
 choco install gitkraken -y
 choco install notepadplusplus.install -y
 choco install 7zip -y
+choco install azure-cli -y
+choco install azure-functions-core-tools
 
 # VSCode extensions
 code --install-extension eamodio.gitlens
