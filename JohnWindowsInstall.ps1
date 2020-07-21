@@ -51,9 +51,9 @@ code --install-extension eg2.vscode-npm-script
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
-code --install-extension johnpapa.angular-essentials
-code --install-extension zhuangtongfa.material-theme
 code --install-extension ms-vscode.powershell
+code --install-extension coenraads.bracket-pair-colorizer
+code --install-extension ms-vscode.azurecli
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
