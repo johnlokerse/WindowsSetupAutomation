@@ -44,16 +44,16 @@ choco install azure-functions-core-tools -y
 choco install microsoft-windows-terminal -y
 
 # VSCode extensions
-code --install-extension eamodio.gitlens
+code --install-extension ms-azure-devops.azure-pipelines
 code --install-extension ms-vscode.csharp
+code --install-extension ms-vscode.powershell
+code --install-extension ms-vscode.azurecli
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension eamodio.gitlens
 code --install-extension zignd.html-css-class-completion
 code --install-extension eg2.vscode-npm-script
 code --install-extension wayou.vscode-todo-highlight
-code --install-extension vscode-icons-team.vscode-icons
-code --install-extension ms-vscode.vscode-typescript-tslint-plugin
-code --install-extension ms-vscode.powershell
 code --install-extension coenraads.bracket-pair-colorizer
-code --install-extension ms-vscode.azurecli
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
