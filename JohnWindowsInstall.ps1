@@ -31,8 +31,6 @@ choco install virtualbox -y
 # Shared software
 choco install vscode -y
 choco install linqpad -y
-choco install googlechrome -y
-choco install firefox -y
 choco install adobereader -y
 choco install putty.install -y
 choco install git.install -y
@@ -42,6 +40,7 @@ choco install 7zip -y
 choco install azure-cli -y
 choco install azure-functions-core-tools -y
 choco install microsoft-windows-terminal -y
+choco install microsoft-edge -y
 
 # VSCode extensions
 code --install-extension ms-azure-devops.azure-pipelines
