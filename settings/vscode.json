@@ -1,0 +1,29 @@
+{
+	"editor.cursorBlinking": "expand",
+	"editor.formatOnSave": true,
+	"terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"files.autoSave": "afterDelay",
+	"javascript.implicitProjectConfig.experimentalDecorators": true,
+	"html-css-class-completion.enableEmmetSupport": true,
+	"breadcrumbs.enabled": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"workbench.sideBar.location": "left",
+	"javascript.preferences.importModuleSpecifier": "relative",
+	"typescript.preferences.importModuleSpecifier": "relative",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"window.zoomLevel": 0,
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false,
+	"powershell.codeFormatting.autoCorrectAliases": true,
+	"prettier.useTabs": true
+}
