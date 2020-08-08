@@ -58,5 +58,8 @@ code --install-extension shinnn.stylelint
 code --install-extension Zignd.html-css-class-completion
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 
+# Install VSCode config
+Get-Content .\settings\vscode.json > $env:AppData\Code\User\settings.json
+
 # Refresh the PowerShell environment
 RefreshEnv.cmd
