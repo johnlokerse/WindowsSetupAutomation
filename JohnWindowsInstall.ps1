@@ -49,10 +49,12 @@ code --install-extension ms-vscode.powershell
 code --install-extension ms-vscode.azurecli
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension eamodio.gitlens
-code --install-extension zignd.html-css-class-completion
-code --install-extension eg2.vscode-npm-script
+code --install-extension redhat.vscode-yaml
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension coenraads.bracket-pair-colorizer
+code --install-extension esbenp.prettier-vscode
+code --install-extension shinnn.stylelint
+code --install-extension Zignd.html-css-class-completion
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
