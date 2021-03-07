@@ -41,6 +41,7 @@ choco install azure-cli -y
 choco install azure-functions-core-tools -y
 choco install microsoft-windows-terminal -y
 choco install microsoft-edge -y
+choco install bicep -y
 
 # VSCode extensions
 code --install-extension ms-azure-devops.azure-pipelines
