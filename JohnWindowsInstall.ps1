@@ -24,7 +24,6 @@ choco install geforce-experience -y
 choco install steam -y
 choco install origin -y
 choco install dropbox -y
-choco install curl -y
 choco install hyperx-ngenuity -y
 choco install virtualbox -y
 
@@ -42,6 +41,8 @@ choco install azure-functions-core-tools -y
 choco install microsoft-windows-terminal -y
 choco install microsoft-edge -y
 choco install bicep -y
+choco install wget -y
+choco install curl -y
 
 # VSCode extensions
 code --install-extension ms-azure-devops.azure-pipelines
