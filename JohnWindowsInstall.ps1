@@ -31,7 +31,6 @@ choco install virtualbox -y
 choco install vscode -y
 choco install linqpad -y
 choco install adobereader -y
-choco install putty.install -y
 choco install git.install -y
 choco install gitkraken -y
 choco install notepadplusplus.install -y
