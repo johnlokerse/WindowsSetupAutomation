@@ -43,24 +43,5 @@ choco install bicep -y
 choco install wget -y
 choco install curl -y
 
-# VSCode extensions
-code --install-extension ms-azure-devops.azure-pipelines
-code --install-extension ms-vscode.csharp
-code --install-extension ms-vscode.powershell
-code --install-extension ms-vscode.azurecli
-code --install-extension ms-vscode-remote.remote-wsl
-code --install-extension vscode-icons-team.vscode-icons
-code --install-extension eamodio.gitlens
-code --install-extension redhat.vscode-yaml
-code --install-extension wayou.vscode-todo-highlight
-code --install-extension coenraads.bracket-pair-colorizer
-code --install-extension esbenp.prettier-vscode
-code --install-extension shinnn.stylelint
-code --install-extension Zignd.html-css-class-completion
-code --install-extension ms-vscode.vscode-typescript-tslint-plugin
-
-# Install VSCode config
-Get-Content .\settings\vscode.json > $env:AppData\Code\User\settings.json
-
 # Refresh the PowerShell environment
 RefreshEnv.cmd
