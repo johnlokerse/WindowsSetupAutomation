@@ -42,6 +42,7 @@ choco install microsoft-edge -y
 choco install bicep -y
 choco install wget -y
 choco install curl -y
+choco install spotify -y
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
