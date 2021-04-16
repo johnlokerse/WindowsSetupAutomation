@@ -43,6 +43,7 @@ choco install bicep -y
 choco install wget -y
 choco install curl -y
 choco install spotify -y
+choco install gh -y
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
