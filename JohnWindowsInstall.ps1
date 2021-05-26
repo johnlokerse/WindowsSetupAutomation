@@ -44,6 +44,7 @@ choco install wget -y
 choco install curl -y
 choco install spotify -y
 choco install gh -y
+choco install azurepowershell -y
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
