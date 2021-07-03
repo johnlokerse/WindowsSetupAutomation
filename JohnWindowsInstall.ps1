@@ -46,6 +46,7 @@ choco install curl -y
 choco install spotify -y
 choco install gh -y
 choco install azurepowershell -y
+choco install eartrumpet -y
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
