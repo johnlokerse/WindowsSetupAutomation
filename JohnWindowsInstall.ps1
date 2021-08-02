@@ -50,3 +50,6 @@ choco install eartrumpet -y
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
+
+# Install WSL
+wsl.exe --install
