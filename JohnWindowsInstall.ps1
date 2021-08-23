@@ -53,3 +53,6 @@ RefreshEnv.cmd
 
 # Install WSL
 wsl.exe --install
+
+# Setup auto configuration for Azure CLI
+az config set auto-upgrade.enable=yes
