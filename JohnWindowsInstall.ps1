@@ -27,6 +27,7 @@ choco install dropbox -y
 choco install hyperx-ngenuity -y
 choco install virtualbox -y
 choco install icloud -y
+choco install mullvad -y
 
 # Shared software
 choco install vscode -y
