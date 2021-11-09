@@ -58,3 +58,5 @@ wsl.exe --install
 
 # Setup auto configuration for Azure CLI
 az config set auto-upgrade.enable=yes
+
+Set-PSReadLineOption -PredictionSource History
