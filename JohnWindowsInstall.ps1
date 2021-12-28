@@ -28,6 +28,7 @@ choco install hyperx-ngenuity -y
 choco install virtualbox -y
 choco install icloud -y
 choco install mullvad -y
+choco install windirstat -y
 
 # Shared software
 choco install vscode -y
