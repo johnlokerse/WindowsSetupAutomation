@@ -3,14 +3,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object
 
 # Work software
 choco install dotnetcore-sdk -y
-choco install visualstudio2019enterprise -y
-choco install visualstudio2019-workload-netweb -y
-choco install visualstudio2019-workload-azure -y
-choco install visualstudio2019-workload-node -y
-choco install visualstudio2019-workload-manageddesktop -y
-choco install visualstudio2019-workload-netcoretools -y
 choco install microsoft-teams.install -y
-choco install sql-server-management-studio -y
 choco install office365proplus -y
 choco install docker-cli -y
 choco install nodejs.install
