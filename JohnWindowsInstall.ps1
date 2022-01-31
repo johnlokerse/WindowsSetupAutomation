@@ -21,6 +21,7 @@ choco install hyperx-ngenuity -y
 choco install virtualbox -y
 choco install mullvad -y
 choco install windirstat -y
+choco install greenshot -y
 
 # Shared software
 choco install vscode -y
