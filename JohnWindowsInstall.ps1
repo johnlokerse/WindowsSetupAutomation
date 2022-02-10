@@ -4,7 +4,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object
 # Work software
 choco install dotnetcore-sdk -y
 choco install microsoft-teams.install -y
-choco install office365proplus -y
 choco install docker-cli -y
 choco install nodejs.install
 choco install keepass.install -y
