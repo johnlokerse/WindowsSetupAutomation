@@ -42,6 +42,7 @@ choco install gh -y
 choco install azurepowershell -y
 choco install eartrumpet -y
 choco install powertoys -y
+choco install screentogif -y
 
 # Refresh the PowerShell environment
 RefreshEnv.cmd
