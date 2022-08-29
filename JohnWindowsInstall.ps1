@@ -55,7 +55,7 @@ az config set auto-upgrade.enable=yes
 az extension add --name azure-devops
 
 # git configuration
-git config --global --add --bool push.autoSetupRemote true
+git config --global push.autoSetupRemote true
 git config --global --add core.fsmonitor true
 
 Set-PSReadLineOption -PredictionSource History
