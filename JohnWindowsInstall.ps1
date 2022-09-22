@@ -38,6 +38,7 @@ choco install bicep -y
 choco install wget -y
 choco install curl -y
 choco install spotify -y
+choco install cider -y
 choco install gh -y
 choco install azurepowershell -y
 choco install eartrumpet -y
