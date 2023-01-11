@@ -18,7 +18,6 @@ choco install origin -y
 choco install dropbox -y
 choco install hyperx-ngenuity -y
 choco install virtualbox -y
-choco install mullvad -y
 choco install windirstat -y
 choco install greenshot -y
 
@@ -37,7 +36,6 @@ choco install microsoft-edge -y
 choco install bicep -y
 choco install wget -y
 choco install curl -y
-choco install spotify -y
 choco install cider -y
 choco install gh -y
 choco install azurepowershell -y
